@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.pyc
+*.pyo
+*.sqlite3
+.idea
+local_settings.py
+venv
+htmlcov
+.coverage
+/public
